@@ -1,24 +1,15 @@
-<!doctype html>
+# Exercise_Unit5_website
 
-<html>
+This repository contains a simple website about capybaras.  
+It includes HTML and CSS files used to create and style the page.
 
-<head>
+## Technologies used
+- HTML  
+- CSS
 
-&nbsp; <title>Capybara World</title>
+## How to open
+Open the file `index.html` in your web browser.
 
-<link rel="stylesheet" href="styles.css">
-
-</head>
-
-<body>
-
-&nbsp; <h1>Welcome to Capybara World!</h1>
-
-&nbsp; <p>The capybara is the largest rodent in the world. It loves swimming, relaxing, and living in groups.</p>
-
-&nbsp; <p>This website is dedicated to sharing fun facts about these peaceful and friendly animals.</p>
-
-</body>
-
-</html>
-
+## Website
+This website is hosted via GitHub Pages:  
+https://esteruiz.github.io/Exercise_Unit5_website/
