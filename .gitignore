@@ -1,0 +1,4 @@
+# Archivos y carpetas a ignorar
+.vscode/
+.DS_Store
+thumbs.db
